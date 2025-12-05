@@ -25,3 +25,32 @@ The app allows users to convert values between different commonly used units.
 ---
 
 ## 📂 Project Structure
+---
+
+## ▶ How to Run the App
+
+1. Clone the repository:
+2. Open the project in *Android Studio*  
+3. Allow Gradle to sync  
+4. Run on emulator or physical device  
+
+---
+
+## 📸 Screenshots
+Screenshots will be available in:  
+/docs/screenshots/
+
+---
+
+## 🎥 Demo Video  
+Demo video will be added here after the app is completed:  
+/docs/demo/
+
+---
+
+## 🎯 Internship Information  
+*Company:* Oasis Infobyte  
+*Task:* Unit Converter  
+*Intern:* Adithyan P S  
+
+---
