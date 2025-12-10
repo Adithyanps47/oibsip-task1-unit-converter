@@ -1,5 +1,4 @@
-package com.example.unitconverterapp; // <-- change to your actual package
-
+package com.example.unitconverterapp;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -32,10 +31,10 @@ public class MainActivity extends AppCompatActivity {
         convertBtn = findViewById(R.id.convertBtn);
         resultText = findViewById(R.id.resultText);
 
-        // load options from resources
         options = getResources().getStringArray(R.array.conversion_options);
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this,
-                android.R.layout.simple_spinner_item, options);
+                R.layout.spinner_item,
+                options);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         unitSpinner.setAdapter(adapter);
 
@@ -105,7 +104,6 @@ public class MainActivity extends AppCompatActivity {
         resultText.setText(resultLabel);
     }
 
-    // format to at most 6 decimals, but remove trailing zeros
     private String format(double d) {
         if (Math.abs(d - Math.round(d)) < 1e-9) {
             return String.valueOf((long)Math.round(d));
