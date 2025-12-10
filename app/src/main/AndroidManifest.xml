@@ -6,9 +6,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/unit_converter_logo"
+        android:icon="@mipmap/app_logo_foreground"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/unit_converter_logo"
+        android:roundIcon="@mipmap/app_logo_foreground"
         android:supportsRtl="true"
         android:theme="@style/Theme.UnitConverterApp">
         <activity
