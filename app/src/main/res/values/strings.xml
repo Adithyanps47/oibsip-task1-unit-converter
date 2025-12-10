@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">UnitConverterApp</string>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="conversion_options">
+        <item>cm to m</item>
+        <item>m to cm</item>
+        <item>grams to kg</item>
+        <item>kg to grams</item>
+        <item>km to miles</item>
+        <item>miles to km</item>
+        <item>°C to °F</item>
+        <item>°F to °C</item>
+    </string-array>
+
+    <string name="hint_value">Enter value</string>
+    <string name="convert_button">Convert</string>
+    <string name="result_placeholder">Result will appear here</string>
 </resources>

@@ -1,0 +1,4 @@
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/button_ripple">
+    <item android:drawable="@color/button_bg" />
+</ripple>
