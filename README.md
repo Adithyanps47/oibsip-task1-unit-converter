@@ -23,7 +23,7 @@ The app currently supports the following conversions:
 ## 📸 Screenshots
 | Length Conversion | Weight Conversion | Temperature Conversion |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/length_demo.png" width="200"> | <img src="docs/screenshots/weight_demo.png" width="200"> | <img src="docs/screenshots/temp_demo.png" width="200"> |
+| <img src="docs/screenshots/length_demo.jpg" width="200"> | <img src="docs/screenshots/weight_demo.jpg" width="200"> | <img src="docs/screenshots/temp_demo.jpg" width="200"> |
 *(Note: Upload your screenshots to the `docs/screenshots` folder and rename them to match the names above, or edit the names here)*
 
 ## 🛠 Tech Stack
