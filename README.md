@@ -24,7 +24,6 @@ The app currently supports the following conversions:
 | Length Conversion | Weight Conversion | Temperature Conversion |
 |:---:|:---:|:---:|
 | <img src="docs/screenshots/length_demo.jpg" width="200"> | <img src="docs/screenshots/weight_demo.jpg" width="200"> | <img src="docs/screenshots/temp_demo.jpg" width="200"> |
-*(Note: Upload your screenshots to the `docs/screenshots` folder and rename them to match the names above, or edit the names here)*
 
 ## 🛠 Tech Stack
 * **Language:** Java
@@ -57,7 +56,7 @@ Don't want to build it? Download the latest version directly:
 * **Program:** Android Development Internship
 * **Task:** Task 1 (Unit Converter)
 * **Intern:** Adithyan P S
-* **LinkedIn:** [(https://www.linkedin.com/in/adithyan-p-s-mobile/)]
+* **LinkedIn:** [**linkedin**](https://www.linkedin.com/in/adithyan-p-s-mobile/)
 
 ---
 *Made by Adithyan P S*
