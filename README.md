@@ -1,10 +1,26 @@
-# 📱 Unit Converter App
-> **OIBSIP Task 1** - Android Development Internship
+<div align="center">
+  <img src="app/src/main/app_logo-playstore.png" width="120" height="120" alt="Unit Converter Logo"/>
 
-![Language](https://img.shields.io/badge/Language-Java-orange)
-![Platform](https://img.shields.io/badge/Platform-Android-green)
-![IDE](https://img.shields.io/badge/IDE-Android%20Studio-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+  <h1>Unit Converter App</h1>
+  <p>
+    <b>OIBSIP Task 1</b> - Android Development Internship
+  </p>
+
+  <a href="https://github.com/Adithyanps47/oibsip-task1-unit-converter">
+    <img src="https://img.shields.io/badge/Language-Java-orange" alt="Language" />
+  </a>
+  <a href="https://developer.android.com/">
+    <img src="https://img.shields.io/badge/Platform-Android-green" alt="Platform" />
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/IDE-Android%20Studio-blue" alt="IDE" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status" />
+  </a>
+</div>
+
+<br />
 
 ## 📖 About
 This Android application was developed as part of the **Oasis Infobyte Android Development Internship** (OIBSIP). It is a lightweight, efficient utility tool designed to perform common unit conversions with a simple and user-friendly interface.
@@ -23,12 +39,21 @@ The app currently supports the following conversions:
 ## 📸 Screenshots
 | Length Conversion | Weight Conversion | Temperature Conversion |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/length_demo.jpg" width="200"> | <img src="docs/screenshots/weight_demo.jpg" width="200"> | <img src="docs/screenshots/temp_demo.jpg" width="200"> |
+| <img src="docs/screenshots/length_demo.jpg" width="200" alt="Length Conversion"> | <img src="docs/screenshots/weight_demo.jpg" width="200" alt="Weight Conversion"> | <img src="docs/screenshots/temp_demo.jpg" width="200" alt="Temperature Conversion"> |
+
+## 🎥 Demo
+See the app in action!
+
+[**▶️ Watch Demo Video**](docs/demo/demo_video.mp4)
+<br>
+*(Click above to view the screen recording inside the repository)*
+
+> **Note:** You can also view the demonstration on my [LinkedIn Profile](https://www.linkedin.com/in/adithyan-p-s-mobile/).
 
 ## 🛠 Tech Stack
 * **Language:** Java
 * **UI:** XML (Relative & Linear Layouts)
-* **IDE:** Android Studio Ladybug (or your version)
+* **IDE:** Android Studio Ladybug
 * **Build System:** Gradle
 
 ## 📥 How to Run
@@ -56,7 +81,9 @@ Don't want to build it? Download the latest version directly:
 * **Program:** Android Development Internship
 * **Task:** Task 1 (Unit Converter)
 * **Intern:** Adithyan P S
-* **LinkedIn:** [**linkedin**](https://www.linkedin.com/in/adithyan-p-s-mobile/)
+* **LinkedIn:** [**Adithyan P S**](https://www.linkedin.com/in/adithyan-p-s-mobile/)
 
 ---
-*Made by Adithyan P S*
+<div align="center">
+  <i>Made by Adithyan P S</i>
+</div>
