@@ -57,7 +57,7 @@ Don't want to build it? Download the latest version directly:
 * **Program:** Android Development Internship
 * **Task:** Task 1 (Unit Converter)
 * **Intern:** Adithyan P S
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **LinkedIn:** [(https://www.linkedin.com/in/adithyan-p-s-mobile/)]
 
 ---
 *Made by Adithyan P S*
